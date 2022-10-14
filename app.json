@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "food-delivery-app",
-    "slug": "food-delivery-app",
+    "slug": "food-delivery-abhi",
     "version": "1.0.0",
+    "owner": "abhi07",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
